@@ -37,7 +37,7 @@ java filenameHere
 ```
 
 ## IDE - IntelliJ IDEA:
-* Download and install the JetBrains Toolbox App [here](https://www.jetbrains.com/help/idea/installation-guide.html#toolbox) install it via Snap. \
+Download and install the JetBrains Toolbox App [here](https://www.jetbrains.com/help/idea/installation-guide.html#toolbox) or install it via Snap. \
 Honestly, i hate to use the Snap version of anything, but it's irrefutable that it's the easiest way to install lots of apps.
 
 * Install Snap: 
