@@ -33,7 +33,7 @@ Feel free to contribute and send suggestions.
 javac ./{ProgramName}.java
 
 # Run the application.
-java /{ProgramName without extension}
+java ./{ProgramName without extension}
 ```
 
 ## IDE - IntelliJ IDEA:
