@@ -38,7 +38,10 @@ java filenameHere
 
 ## IDE - IntelliJ IDEA:
 Download and install the JetBrains Toolbox App [here](https://www.jetbrains.com/help/idea/installation-guide.html#toolbox) install it via Snap. \
-Honestly, i hate to use the Snap version of anything, but it's irrefutable that it's the easiest way to install lots of apps.
+Honestly, i hate to use the Snap version of anything, but it's irrefutable that it's the easiest way to install lots of apps. \
+Also, fell free to use any other Text Editor or IDE!
+ * A few examples of alternative IDEs: Eclipse, NetBeans, BlueJ, JDeveloper, etc.
+ * A few examples of alternative Text Editor: Visual Studio Code, Vim, Atom, Sublime Text, etc.
 
 * Install Snap: 
 ```bash
