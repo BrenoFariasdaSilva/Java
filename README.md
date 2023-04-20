@@ -57,3 +57,9 @@ sudo snap install core -y
 # Intellij Community - Free Version:
 sudo snap install intellij-idea-community --classic
 ```
+
+## Contributing
+Code improvement recommendations are very welcome, but keep in mind that many exercises will be very simple, with a lot of room for improvement, after all here is all the history of my learning progress.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
