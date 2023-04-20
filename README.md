@@ -30,10 +30,10 @@ Feel free to contribute and send suggestions.
 ## Run Java code:
 ```bash
 # Compile the application using the Java compiler (JVM):
-javac filenameHere.java
+javac ./{ProgramName}.java
 
 # Run the application.
-java filenameHere
+java /{ProgramName without extension}
 ```
 
 ## IDE - IntelliJ IDEA:
