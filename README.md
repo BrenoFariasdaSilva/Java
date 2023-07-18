@@ -15,6 +15,10 @@ Feel free to contribute and send suggestions.
 
 </div>
 
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Java.svg" alt="wakatime" />
+</p>
+
 ## Installation:
 * Zip and Unzip Tools: Zip and Unzip might be some necessary tools to install SDKMAN
 	```bash
