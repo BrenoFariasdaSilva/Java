@@ -4,8 +4,16 @@
 
 </div>
 
+<div align="center">
+  
+---
+
 This repo is made with the objective of showing the Java related codes i have written. \
 Feel free to contribute and send suggestions.
+  
+---
+
+</div>
 
 ## Installation:
 * Zip and Unzip Tools: Zip and Unzip might be some necessary tools to install SDKMAN
