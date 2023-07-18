@@ -1,4 +1,9 @@
-# Java <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  width="3%" height="3%">
+<div align="center">
+  
+# Java. <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  width="3%" height="3%">
+
+</div>
+
 This repo is made with the objective of showing the Java related codes i have written. \
 Feel free to contribute and send suggestions.
 
