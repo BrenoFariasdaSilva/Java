@@ -19,6 +19,12 @@ Feel free to contribute and send suggestions.
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Java.svg" alt="wakatime" />
 </p>
 
+<div align="center">
+  
+![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/798e367e16b0f48471dc3fcf7a22880eb15631e6.svg "Repobeats analytics image")
+
+</div>
+
 ## Installation:
 * Zip and Unzip Tools: Zip and Unzip might be some necessary tools to install SDKMAN
 	```bash
