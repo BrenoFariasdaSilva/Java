@@ -25,6 +25,16 @@ Feel free to contribute and send suggestions.
 
 </div>
 
+## Table of Contents
+- [Java. ](#java-)
+	- [Table of Contents](#table-of-contents)
+	- [Installation:](#installation)
+	- [Run Java code:](#run-java-code)
+	- [IDE - IntelliJ IDEA:](#ide---intellij-idea)
+	- [Contributing](#contributing)
+	- [License](#license)
+
+
 ## Installation:
 * Zip and Unzip Tools: Zip and Unzip might be some necessary tools to install SDKMAN
 	```bash
