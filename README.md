@@ -15,9 +15,14 @@ Feel free to contribute and send suggestions.
 
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Java.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Java)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Java)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Java)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Java.svg)
+
+</div>
 
 <div align="center">
   
