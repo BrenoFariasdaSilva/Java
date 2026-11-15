@@ -21,15 +21,6 @@ Feel free to contribute and send suggestions.
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Java)
 ![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Java)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Java.svg)
-
-</div>
-
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Java)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Java)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Java)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Java.svg)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Java/main)](https://github.com/BrenoFariasdaSilva/Java/commits/main)
 [![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/network/members)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Java)
@@ -44,7 +35,6 @@ Feel free to contribute and send suggestions.
 [![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Java/main)](https://github.com/BrenoFariasdaSilva/Java/commits)
 [![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Java?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Java/pulls?q=is%3Apr+is%3Amerged)
 ![GitHub Primary Language](https://img.shields.io/badge/language-Java-3b82f6)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/798e367e16b0f48471dc3fcf7a22880eb15631e6.svg)
 
 </div>
