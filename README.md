@@ -25,10 +25,30 @@ Feel free to contribute and send suggestions.
 </div>
 
 <div align="center">
-  
-![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/798e367e16b0f48471dc3fcf7a22880eb15631e6.svg "Repobeats analytics image")
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Java)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Java)
+![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Java)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Java.svg)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Java/main)](https://github.com/BrenoFariasdaSilva/Java/commits/main)
+[![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/network/members)
+![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Java)
+[![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/stargazers)
+[![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/graphs/contributors)
+[![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java)
+[![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/issues?q=is%3Aissue+is%3Aclosed)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/pulls?q=is%3Apr+is%3Aclosed)
+[![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Java/main)](https://github.com/BrenoFariasdaSilva/Java/commits)
+[![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Java?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Java/pulls?q=is%3Apr+is%3Amerged)
+![GitHub Primary Language](https://img.shields.io/badge/language-Java-3b82f6)
+
+![Repobeats Statistics](https://repobeats.axiom.co/api/embed/798e367e16b0f48471dc3fcf7a22880eb15631e6.svg)
 
 </div>
+
 
 ## Table of Contents
 - [Java. ](#java-)
