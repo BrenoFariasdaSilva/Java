@@ -27,7 +27,6 @@ Feel free to contribute and send suggestions.
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Java)](https://github.com/BrenoFariasdaSilva/Java/pulls)
